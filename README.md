@@ -1,3 +1,5 @@
+<h1> Books Inventory Management App </h1>
+
 <b>PROJECT DESCRIPTION</b>
 1.	The app provides activities with the help of which the user can complete the following tasks:
     o	The user can add new Inventory
