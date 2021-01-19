@@ -1,4 +1,4 @@
-PROJECT DESCRIPTION
+<b>PROJECT DESCRIPTION</b>
 1.	The app provides activities with the help of which the user can complete the following tasks:
     o	The user can add new Inventory
     o	The user can view the product details
@@ -37,3 +37,21 @@ About Books Box
     •	Contact supplier using supplier phone number.
     •	Can decrease the product quantity from the main screen using the "Sale" button attached to each book.
 NOTE: All fields are mandatory and must be entered by the user.
+
+<b> BooksBox Output Images </b>
+<br>
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/1.png" width="300px" height="550px">
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/2.png" width="300px" height="550px">
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/3.png" width="300px" height="550px">
+<br>
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/4.png" width="300px" height="550px">
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/5.png" width="300px" height="550px">
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/6.png" width="300px" height="550px">
+<br>
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/7.png" width="300px" height="550px">
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/8.png" width="300px" height="550px">
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/9.png" width="300px" height="550px">
+<br>
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/10.png" width="300px" height="550px">
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/11.png" width="300px" height="550px">
+<img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/12.png" width="300px" height="550px">
