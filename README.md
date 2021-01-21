@@ -1,6 +1,6 @@
 <h1> Books Inventory Management App </h1>
 
-<b>PROJECT DESCRIPTION</b>
+<h3>PROJECT DESCRIPTION</h3>
 1.	The app provides activities with the help of which the user can complete the following tasks:
     o	The user can add new Inventory
     o	The user can view the product details
@@ -40,7 +40,7 @@ About Books Box
     •	Can decrease the product quantity from the main screen using the "Sale" button attached to each book.
 NOTE: All fields are mandatory and must be entered by the user.
 
-<b> BooksBox Output Images </b>
+<h3> BooksBox Output Images </h3>
 <br>
 <img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/1.png" width="300px" height="550px">
 <img src="https://github.com/shivam-aggarwal/booksbox/blob/main/BooksBoxImages/2.png" width="300px" height="550px">
